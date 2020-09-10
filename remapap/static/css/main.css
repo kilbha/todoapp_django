@@ -1,0 +1,20 @@
+::placeholder{
+    color:black;
+    opacity:1;
+}
+
+:placeholder-shown{
+
+}
+
+.bgcolor{
+    background-color:white;#79AEC8
+}
+
+.bodycolor{
+    background-color:#79AEC8;#F5F5F5
+}
+
+.tcolor{
+    background-color:#C724B1;
+}
